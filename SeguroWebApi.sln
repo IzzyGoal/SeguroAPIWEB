@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeguroWebApi", "SeguroWebApi\SeguroWebApi.csproj", "{9CEE3C8F-C76D-41E8-B5AD-570C94DB9456}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9CEE3C8F-C76D-41E8-B5AD-570C94DB9456}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CEE3C8F-C76D-41E8-B5AD-570C94DB9456}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CEE3C8F-C76D-41E8-B5AD-570C94DB9456}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CEE3C8F-C76D-41E8-B5AD-570C94DB9456}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0F4B16DB-6DA9-44D5-975E-E1001850616B}
+	EndGlobalSection
+EndGlobal
