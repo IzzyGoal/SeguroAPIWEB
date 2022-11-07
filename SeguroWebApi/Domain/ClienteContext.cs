@@ -8,5 +8,7 @@ namespace SeguroWebApi.Domain
         {
             Database.EnsureCreated();
         }
+
+        public DbSet<Cliente> Clientes { get; set; }    
     }
 }

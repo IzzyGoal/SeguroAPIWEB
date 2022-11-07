@@ -18,9 +18,9 @@
 
         public string stPagamentos { get; set; }
 
-        public DateOnly dtInicio { get; set; }
+        public DateTime dtInicio { get; set; }
 
-        public DateOnly dtFim { get; set; }
+        public DateTime dtFim { get; set; }
 
 
     }
